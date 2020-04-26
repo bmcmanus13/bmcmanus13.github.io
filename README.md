@@ -3,8 +3,8 @@
 ## Kaggle Dataset Projects 
 
 ### Titanic: Predictive Analysis on Passenger Survival
-[GitHub Link](bmcmanus13.github.io/Notbooks/Titanic_Predictive_Analysis.ipynb)
-[Juypter nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
+[GitHub_Link](https://github.com/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
+[Juypter_nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
 
 You can use the [editor on GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
