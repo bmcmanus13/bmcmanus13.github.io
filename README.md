@@ -3,7 +3,9 @@
 ## Kaggle Dataset Projects 
 
 ### Titanic: Predictive Analysis on Passenger Survival
-[View Project](bmcmanus13.github.io/Notbooks/Titanic_Predictive_Analysis.ipynb)
+[GitHub Link](bmcmanus13.github.io/Notbooks/Titanic_Predictive_Analysis.ipynb)
+[Juypter nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
+
 You can use the [editor on GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
