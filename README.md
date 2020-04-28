@@ -7,7 +7,7 @@
 
 ## Kaggle Projects 
 
-### Classification Projects
+### Classification Problems
 #### Titanic: Predictive Analysis on Passenger Survival
 [GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)        
 [Juypter_nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
