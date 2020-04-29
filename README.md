@@ -14,4 +14,4 @@
 
 ### Term Papers and Reports 
 #### The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2 
-[Link to Paper](https://pdfhost.io/v/7OdMP3D5c_Microsoft_Word_Econ_321_Final_Examdocx.pdf)
+[Link to Paper](https://pdfhost.io/v/ZFK1kdgCU_Microsoft_Word_V00873065_Brandon_McManus_ECON321_SCOONESdocx.pdf)
