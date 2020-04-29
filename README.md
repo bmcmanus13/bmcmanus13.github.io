@@ -12,4 +12,6 @@
 [GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)        
 [Juypter_nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
 
-
+### Term Papers and Reports 
+#### Economic Analysis of Germany's Renewable Energy Sources Act of (2014) and (2017)
+[Paper](https://www.dropbox.com/home/Portfolio?preview=BrandonMcManusTermPaper.pdf)
