@@ -1,4 +1,4 @@
-# Data science portfolio by Brandon McManus
+# Project Portfolio by Brandon McManus
 ### Contact Information
              
 **Email:** brandonmcmanus77@gmail.com              
