@@ -13,5 +13,5 @@
 [Juypter_nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
 
 ### Term Papers and Reports 
-#### Economic Analysis of Germany's Renewable Energy Sources Act of (2014) and (2017)
-[Paper](https://www.dropbox.com/home/Portfolio?preview=BrandonMcManusTermPaper.pdf)
+#### The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2 
+[Link to Paper](https://pdfhost.io/v/7OdMP3D5c_Microsoft_Word_Econ_321_Final_Examdocx.pdf)
