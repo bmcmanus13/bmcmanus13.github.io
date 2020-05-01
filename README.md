@@ -15,3 +15,7 @@
 ### Term Papers and Reports 
 #### The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2 
 [Link to Paper](https://pdfhost.io/v/ZFK1kdgCU_Microsoft_Word_V00873065_Brandon_McManus_ECON321_SCOONESdocx.pdf)
+
+### Certifications
+#### Advanced Google Analytics Certificate of Completion
+[Certificate](https://pdfhost.io/v/gu8Gfbtkn_Course_Certificatepdf.pdf)
