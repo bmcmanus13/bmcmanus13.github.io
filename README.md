@@ -12,6 +12,10 @@
 [GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)        
 [Juypter_nbviewer](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)
 
+### Brief Analysis
+#### Housing Prices Analysis
+[GitHub](https://github.com/bmcmanus13/bmcmanus13.github.io/blob/master/housing_prices_analysis.ipynb)
+[Juypter nbviewer]()
 ### Term Papers and Reports 
 #### The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2 
 [Link to Paper](https://pdfhost.io/v/ZFK1kdgCU_Microsoft_Word_V00873065_Brandon_McManus_ECON321_SCOONESdocx.pdf)
