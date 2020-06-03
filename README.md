@@ -5,9 +5,14 @@
 **Email:** brandonmcmanus77@gmail.com              
 **Phone:** 604-839-8774                
 **LinkedIn:** [Link](https://www.linkedin.com/in/brandon-mcmanus-290060142/)                  
---- 
        
 ## Kaggle Projects 
+| Project Type      | Title | Date of Completion     |
+| :---:        |    :----:   |          :---: |
+| Brief Analysis   | [Housing Prices Analysis](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/housing_prices_analysis.ipynb)                    | May, 30,2020     |
+| Classification      | [Titanic: Predictive Analysis on Passenger Survival](https://nbviewer.jupyter.org/github/bmcmanus13/bmcmanus13.github.io/blob/master/Notebooks/Titanic_Predictive_Analysis.ipynb)       | April, 26 2020   |
+
+
 ---
 ### Classification Problems
 #### Titanic: Predictive Analysis on Passenger Survival
