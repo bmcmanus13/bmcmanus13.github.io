@@ -18,5 +18,5 @@
 | Project Type      | Title | Date of Completion     |
 | :---        |    :----   |          :--- |
 | Certificate  | [Advanced Google Analytics Certificate of Completion](https://pdfhost.io/v/gu8Gfbtkn_Course_Certificatepdf.pdf)          | May, 10 2020     |
-| Term Paper   | [The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2](https://pdfhost.io/v/ZFK1kdgCU_Microsoft_Word_V00873065_Brandon_McManus_ECON321_SCOONESdocx.pdf)                                  | April, 23 2020     |
+| Term Paper   | [The Lasting Impact of Technological Change & Innovation in Canada’s Forestry Industry since World War 2](https://pdfhost.io/v/ZFK1kdgCU_Microsoft_Word_V00873065_Brandon_McManus_ECON321_SCOONESdocx.pdf)                                  | April, 23 2020     | 
 
