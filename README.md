@@ -1,13 +1,13 @@
-## Project Portfolio by Brandon McManus
+# Project Portfolio by Brandon McManus
 --- 
-### Contact Information
+## Contact Information
               
 **Email:** brandonmcmanus77@gmail.com              
 **Phone:** 604-839-8774                
 **LinkedIn:** [Link](https://www.linkedin.com/in/brandon-mcmanus-290060142/)                  
 
 ---       
-### Kaggle Projects 
+## Kaggle Projects 
 
 | Project Type   | Title                                                                              | Date of Completion |
 |----------------|------------------------------------------------------------------------------------|--------------------|
@@ -15,7 +15,7 @@
 | Classification | [Titanic: Predictive Analysis on Passenger Survival](https://tinyurl.com/ybkhp7wg) | April, 26, 2020    |
 
 ---
-### Miscellaneous Work 
+## Miscellaneous  
 
 | Project Type | Title                                                                               | Date of Completion |    
 |--------------|-------------------------------------------------------------------------------------|--------------------|
