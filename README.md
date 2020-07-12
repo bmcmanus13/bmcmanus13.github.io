@@ -11,6 +11,7 @@
 
 | Project Type   | Title                                                                              | Date of Completion |
 |----------------|------------------------------------------------------------------------------------|--------------------|
+| Data Analysis  | [E-Commerce Data Analysis](https://tinyurl.com/yczhp7na)                           | July, 11 2020      |
 | Brief Analysis | [Housing Prices Analysis](https://tinyurl.com/ya92f23n)                            | May, 30 2020       |
 | Classification | [Titanic: Predictive Analysis on Passenger Survival](https://tinyurl.com/ybkhp7wg) | April, 26, 2020    |
 
