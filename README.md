@@ -7,11 +7,12 @@
 **LinkedIn:** [Link](https://www.linkedin.com/in/brandon-mcmanus-290060142/)                  
 
 ---       
-## Kaggle Projects 
+## Projects 
 
 | Project Type   | Title                                                                              | Date of Completion |
 |----------------|------------------------------------------------------------------------------------|--------------------|
 | Data Analysis  | [E-Commerce Data Analysis](https://tinyurl.com/yczhp7na)                           | July, 11 2020      |
+| Data Analysis  | [Housing Prices Data Analysis](https://tinyurl.com/y6fveau6)                       | In Progress        |
 
 
 ---
