@@ -18,8 +18,9 @@
 ---
 ## Miscellaneous  
 
-| Project Type | Title                                                                               | Date of Completion |    
-|--------------|-------------------------------------------------------------------------------------|--------------------|
-| Certificate  | [Advanced Google Analytics Certificate of Completion](https://tinyurl.com/ycka44sz) | May, 10 2020       |
-| Term Paper   | [Canada’s Forestry Industry since World War 2](https://tinyurl.com/y8te8yhj)        | April, 23 2020     |   
+| Project Type | Title                                                                                       | Date of Completion |    
+|--------------|---------------------------------------------------------------------------------------------|--------------------|
+| Certificate  | [Advanced Google Analytics Certificate of Completion](https://tinyurl.com/ycka44sz)         | May, 10 2020       |
+| Term Paper   | [Canada’s Forestry Industry since World War 2](https://tinyurl.com/y8te8yhj)                | April, 23 2020     |   
+| Term Paper   | [Economic Analysis of Germany's Renewable Energy Sources Act](https://tinyurl.com/y59c64jp) | April, 04 2020     |   
 
